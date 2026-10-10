@@ -1,2 +1,2 @@
-TECH:
+Tech Stack:
 Python 
